@@ -9,6 +9,6 @@ setup(name="test2",
       licence="GPL3",
       packages=['test2'],
       entry_points={
-        'console_scripts':['test2=test2.ec2:main']
+        'console_scripts':['test2=test2.main:main']
         },
       )

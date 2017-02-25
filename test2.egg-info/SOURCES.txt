@@ -1,5 +1,5 @@
 test2/__init__.py
-test2/ec2.py
+test2/main.py
 test2.egg-info/PKG-INFO
 test2.egg-info/SOURCES.txt
 test2.egg-info/dependency_links.txt
