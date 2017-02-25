@@ -7,11 +7,8 @@ setup(name="test2",
       author="Wen-ting, Chang",
       author_email="wen-ting.chang@ucdconnect.ie",
       licence="GPL3",
-      packages=['src'],
+      packages=['test2'],
       entry_points={
-        'console_scripts':['test2=src.main:main']
+        'console_scripts':['test2=test2.main:main']
         },
-      install_requires=[
-          'numpy',
-      ],
       )
